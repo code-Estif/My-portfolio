@@ -58,4 +58,5 @@ Available for freelance frontend projects and long-term collaborations.
 If you're interested in working together:
  
 LinkedIn: https://www.linkedin.com/in/estif-dev-962531375/ 
+
 GitHub: https://github.com/code-Estif
